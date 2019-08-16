@@ -55,6 +55,8 @@ The corpus consists of elf binaries extracted from firmware images. The images a
 
 Below you can find an attribution of binaries in the corpus to their corresponding devices.
 
+To get more information regarding the corpus, such as how to reconstruct it, contact firmware-security@fkie.fraunhofer.de
+
 ## Asus BRT-AC828
 
 | SHA-256 | file name | architecture |
