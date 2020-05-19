@@ -9,10 +9,11 @@ Escpecially Huawei does not provide any firmware on their website.
 
 # Corpus Statistic
 
-|number of firmware samples |      127 |
-|number of unique files     |  128,723 |
-|number of vendors          |        7 |
-|size                       | 3.25 GiB |
+|firmware samples |       127 |
+|-----------------|----------:|  
+|unique files     |   128,723 |  
+|vendors          |         7 |  
+|size             |  3.25 GiB |  
 
 # Corpus Details
 
