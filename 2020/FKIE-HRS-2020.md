@@ -1,11 +1,11 @@
 # FKIE-HRS-2020
 
 The FKIE-HRS-2020 corpus provides samples of home routers from 'big' vendors selling their products in Europe.
-The corpus was crated on March 27th 2020.
+The corpus was created on March 27th 2020.
 It provides the latest stable firmware versions of all routers that were promoted on the vendor's websites at that date.
 If there was more then one hardware revision of a router, we just took the firmware of the most recent hardware revision.
 There are some routers missing, because their firmware was not provided on the vendor's website or ftp server.
-Escpecially Huawei does not provide any firmware on their website.
+Esspecially Huawei does not provide any firmware on their website.
 
 # Corpus Statistic
 
