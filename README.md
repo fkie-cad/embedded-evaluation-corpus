@@ -4,5 +4,5 @@ This Repository provides embedded device evaluation corpora created by Fraunhofe
 
 The folder's names indicate the year of corpus creation.
 
-To get more information regarding the corpi, such as how to reconstruct them, contact [firmware-security@fkie.fraunhofer.de](mailto:firmware-security@fkie.fraunhofer.de)  
+To get more information regarding the corpora, such as how to reconstruct them, contact [firmware-security@fkie.fraunhofer.de](mailto:firmware-security@fkie.fraunhofer.de)  
 
