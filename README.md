@@ -1,6 +1,6 @@
 # Fraunhofer FKIE Embedded Device Evaluation Corpi
 
-This Repository provides embedded device evaluation corpi created by Fraunhofer FKIE.  
+This Repository provides embedded device evaluation corpora created by Fraunhofer FKIE.  
 
 The folder's names indicate the year of corpus creation.
 
