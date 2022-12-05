@@ -6,7 +6,7 @@ It provides the latest stable firmware versions of all routers that were promote
 If there was more then one hardware revision of a router, we took the firmware of the most recent hardware revision.
 There are some routers missing, because their firmware was not provided on the vendor's website or ftp server.
 
-# Corpus Statistic
+# Corpus Statistics
 
 |firmware samples |       122 |
 |-----------------|----------:|  
